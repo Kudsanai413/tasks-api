@@ -231,7 +231,8 @@
         "blogger_id": "user7",
         "blogger_name": "Grace",
         "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
-        "blog_text": "This is a blog post about Why JavaScript is essential for web developers. Here we explore how to effectively use javascript in your projects.",
+        "blog_title": "Why JavaScript is Essential for Web Developers",
+        "blog_text": "This is a blog post about why JavaScript is essential for web developers. Here, we explore how to effectively use JavaScript in your projects to create dynamic, interactive websites. JavaScript is one of the core technologies of web development, and understanding its fundamentals is crucial. From manipulating the Document Object Model (DOM) to handling events and making asynchronous requests, JavaScript empowers developers to create responsive, user-friendly applications.",
         "blog_date": "2025-04-01T21:16:12.808019",
         "likes": 103,
         "dislikes": 11,
@@ -246,7 +247,8 @@
         "blogger_id": "user13",
         "blogger_name": "Mona",
         "blogger_profile": "https://randomuser.me/api/portraits/women/7.jpg",
-        "blog_text": "This is a blog post about Best practices for styling in React Native. Here we explore how to effectively use react_native in your projects.",
+        "blog_title": "Best Practices for Styling in React Native",
+        "blog_text": "This is a blog post about best practices for styling in React Native. Here, we explore how to effectively use React Native to create stylish and responsive mobile applications. Styling in React Native can be tricky due to its differences from traditional CSS, but by following best practices, developers can ensure consistency and maintainability. We’ll cover topics like using Flexbox, modularizing styles, and avoiding inline styles to make your code cleaner and more efficient.",
         "blog_date": "2025-04-01T21:16:12.808047",
         "likes": 279,
         "dislikes": 46,
@@ -261,7 +263,8 @@
         "blogger_id": "user8",
         "blogger_name": "Hank",
         "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
-        "blog_text": "This is a blog post about JavaScript: The complete guide for modern web development. Here we explore how to effectively use javascript in your projects.",
+        "blog_title": "JavaScript: The Complete Guide for Modern Web Development",
+        "blog_text": "This is a blog post about JavaScript: The complete guide for modern web development. Here we explore how to effectively use JavaScript in your projects. JavaScript has evolved significantly over the years and is now at the forefront of modern web development. From front-end frameworks like React and Vue to back-end technologies such as Node.js, JavaScript is the backbone of the web. This post will guide you through its essentials, modern tools, and techniques to boost your development skills.",
         "blog_date": "2025-04-01T21:16:12.808063",
         "likes": 18,
         "dislikes": 13,
@@ -276,7 +279,8 @@
         "blogger_id": "user7",
         "blogger_name": "Grace",
         "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
-        "blog_text": "This is a blog post about How to use native modules in React Native. Here we explore how to effectively use react_native in your projects.",
+        "blog_title": "How to Use Native Modules in React Native",
+        "blog_text": "This is a blog post about how to use native modules in React Native. Here we explore how to effectively extend the capabilities of React Native by integrating with native code. Native modules allow developers to access device-specific features such as GPS, camera, or file systems. This guide walks you through the process of creating and using custom native modules in React Native, making your mobile app more powerful and flexible while keeping the codebase manageable.",
         "blog_date": "2025-04-01T21:16:12.808080",
         "likes": 372,
         "dislikes": 46,
@@ -291,7 +295,8 @@
         "blogger_id": "user1",
         "blogger_name": "Alice",
         "blogger_profile": "https://randomuser.me/api/portraits/women/1.jpg",
-        "blog_text": "This is a blog post about How to debug React Native apps efficiently. Here we explore how to effectively use react_native in your projects.",
+        "blog_title": "How to Debug React Native Apps Efficiently",
+        "blog_text": "This is a blog post about how to debug React Native apps efficiently. Here, we explore various strategies to troubleshoot and resolve issues quickly in your React Native applications. Debugging can be a challenging part of development, but with the right tools and methods, you can minimize downtime and improve your workflow. This post covers techniques like using console logs, React DevTools, remote debugging, and performance profiling to ensure your apps run smoothly.",
         "blog_date": "2025-04-01T21:16:12.808091",
         "likes": 460,
         "dislikes": 35,
@@ -306,7 +311,8 @@
         "blogger_id": "user3",
         "blogger_name": "Charlie",
         "blogger_profile": "https://randomuser.me/api/portraits/men/2.jpg",
-        "blog_text": "This is a blog post about How to create interactive UIs with JavaScript. Here we explore how to effectively use javascript in your projects.",
+        "blog_title": "How to Create Interactive UIs with JavaScript",
+        "blog_text": "This is a blog post about how to create interactive UIs with JavaScript. Here, we explore how to use JavaScript to build interactive user interfaces that engage and delight users. JavaScript enables you to manipulate elements dynamically, handle user inputs, and control complex animations. By learning how to integrate JavaScript with HTML and CSS, developers can create responsive and interactive web pages that react to user actions in real time.",
         "blog_date": "2025-04-01T21:16:12.808102",
         "likes": 183,
         "dislikes": 19,
@@ -321,7 +327,8 @@
         "blogger_id": "user8",
         "blogger_name": "Hank",
         "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
-        "blog_text": "This is a blog post about Mastering PHP for backend development. Here we explore how to effectively use php in your projects.",
+        "blog_title": "Mastering PHP for Backend Development",
+        "blog_text": "This is a blog post about mastering PHP for backend development. Here we explore how to effectively use PHP in your projects to build dynamic, data-driven websites and applications. PHP remains one of the most popular server-side languages, and it powers many of the largest websites in the world. This post covers essential concepts like working with databases, handling forms, and managing user sessions to help you become a proficient PHP developer.",
         "blog_date": "2025-04-01T21:16:12.808113",
         "likes": 351,
         "dislikes": 24,
@@ -336,7 +343,8 @@
         "blogger_id": "user14",
         "blogger_name": "Nathan",
         "blogger_profile": "https://randomuser.me/api/portraits/men/7.jpg",
-        "blog_text": "This is a blog post about Mastering PHP for backend development. Here we explore how to effectively use php in your projects.",
+        "blog_title": "Mastering PHP for Backend Development",
+        "blog_text": "This is a blog post about mastering PHP for backend development. Here, we explore how to effectively use PHP to build server-side applications that are both secure and scalable. PHP has a vast ecosystem with frameworks like Laravel and Symfony that simplify backend development. This guide will cover topics like database interaction, routing, authentication, and best practices to help you become a PHP backend expert.",
         "blog_date": "2025-04-01T21:16:12.808128",
         "likes": 384,
         "dislikes": 42,
@@ -351,7 +359,8 @@
         "blogger_id": "user2",
         "blogger_name": "Bob",
         "blogger_profile": "https://randomuser.me/api/portraits/men/1.jpg",
-        "blog_text": "This is a blog post about How to get started with Python: A Beginner's Guide. Here we explore how to effectively use python in your projects.",
+        "blog_title": "How to Get Started with Python: A Beginner's Guide",
+        "blog_text": "This is a blog post about how to get started with Python: a beginner's guide. Here, we explore how to effectively use Python for your first programming project. Python is renowned for its simplicity and readability, making it an excellent choice for beginners. This post covers the basic concepts of Python programming, including variables, loops, functions, and data structures, along with tips on how to start building your own projects.",
         "blog_date": "2025-04-01T21:16:12.808213",
         "likes": 465,
         "dislikes": 9,
@@ -366,163 +375,14 @@
         "blogger_id": "user12",
         "blogger_name": "Leo",
         "blogger_profile": "https://randomuser.me/api/portraits/men/6.jpg",
-        "blog_text": "This is a blog post about Best practices for React component design. Here we explore how to effectively use react in your projects.",
+        "blog_title": "Best Practices for React Component Design",
+        "blog_text": "This is a blog post about best practices for React component design. Here, we explore how to effectively use React to build reusable, maintainable, and efficient components. React’s component-based architecture is powerful, but without proper design, it can lead to inefficient code. This post will guide you through naming conventions, state management, and the importance of keeping components small and focused for better scalability and performance.",
         "blog_date": "2025-04-01T21:16:12.808232",
         "likes": 218,
         "dislikes": 11,
         "reposts": 50,
         "comments": [
             "Great post, Leo!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user7",
-        "blogger_name": "Grace",
-        "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
-        "blog_text": "This is a blog post about How to get started with Python: A Beginner's Guide. Here we explore how to effectively use python in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808241",
-        "likes": 485,
-        "dislikes": 9,
-        "reposts": 85,
-        "comments": [
-            "Great post, Grace!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user14",
-        "blogger_name": "Nathan",
-        "blogger_profile": "https://randomuser.me/api/portraits/men/7.jpg",
-        "blog_text": "This is a blog post about JavaScript: The complete guide for modern web development. Here we explore how to effectively use javascript in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808252",
-        "likes": 231,
-        "dislikes": 35,
-        "reposts": 78,
-        "comments": [
-            "Great post, Nathan!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user4",
-        "blogger_name": "David",
-        "blogger_profile": "https://randomuser.me/api/portraits/men/3.jpg",
-        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808262",
-        "likes": 110,
-        "dislikes": 18,
-        "reposts": 18,
-        "comments": [
-            "Great post, David!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user9",
-        "blogger_name": "Ivy",
-        "blogger_profile": "https://randomuser.me/api/portraits/women/5.jpg",
-        "blog_text": "This is a blog post about How to work with MySQL in PHP. Here we explore how to effectively use php in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808284",
-        "likes": 268,
-        "dislikes": 30,
-        "reposts": 34,
-        "comments": [
-            "Great post, Ivy!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user6",
-        "blogger_name": "Fay",
-        "blogger_profile": "https://randomuser.me/api/portraits/women/3.jpg",
-        "blog_text": "This is a blog post about React Native vs Flutter: A detailed comparison. Here we explore how to effectively use react_native in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808294",
-        "likes": 375,
-        "dislikes": 26,
-        "reposts": 2,
-        "comments": [
-            "Great post, Fay!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user8",
-        "blogger_name": "Hank",
-        "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
-        "blog_text": "This is a blog post about Understanding Python's dynamic typing and its benefits. Here we explore how to effectively use python in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808304",
-        "likes": 403,
-        "dislikes": 10,
-        "reposts": 99,
-        "comments": [
-            "Great post, Hank!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user4",
-        "blogger_name": "David",
-        "blogger_profile": "https://randomuser.me/api/portraits/men/3.jpg",
-        "blog_text": "This is a blog post about Best practices for React component design. Here we explore how to effectively use react in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808315",
-        "likes": 272,
-        "dislikes": 17,
-        "reposts": 58,
-        "comments": [
-            "Great post, David!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user2",
-        "blogger_name": "Bob",
-        "blogger_profile": "https://randomuser.me/api/portraits/men/1.jpg",
-        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808326",
-        "likes": 53,
-        "dislikes": 35,
-        "reposts": 63,
-        "comments": [
-            "Great post, Bob!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user5",
-        "blogger_name": "Eve",
-        "blogger_profile": "https://randomuser.me/api/portraits/women/2.jpg",
-        "blog_text": "This is a blog post about Getting started with React: A beginner's guide. Here we explore how to effectively use react in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808336",
-        "likes": 68,
-        "dislikes": 44,
-        "reposts": 93,
-        "comments": [
-            "Great post, Eve!",
-            "Very insightful!",
-            "I learned a lot from this."
-        ]
-    },
-    {
-        "blogger_id": "user5",
-        "blogger_name": "Eve",
-        "blogger_profile": "https://randomuser.me/api/portraits/women/2.jpg",
-        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
-        "blog_date": "2025-04-01T21:16:12.808346",
-        "likes": 260,
-        "dislikes": 1,
-        "reposts": 44,
-        "comments": [
-            "Great post, Eve!",
             "Very insightful!",
             "I learned a lot from this."
         ]

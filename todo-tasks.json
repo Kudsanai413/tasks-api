@@ -226,7 +226,7 @@
       "done": false
     }
   ],
-  blogs: [
+  "blogs": [
     {
         "blogger_id": "user7",
         "blogger_name": "Grace",

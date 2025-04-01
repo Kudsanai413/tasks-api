@@ -226,4 +226,307 @@
       "done": false
     }
   ]
+
+  blogs: [
+    {
+        "blogger_id": "user7",
+        "blogger_name": "Grace",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
+        "blog_text": "This is a blog post about Why JavaScript is essential for web developers. Here we explore how to effectively use javascript in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808019",
+        "likes": 103,
+        "dislikes": 11,
+        "reposts": 65,
+        "comments": [
+            "Great post, Grace!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user13",
+        "blogger_name": "Mona",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/7.jpg",
+        "blog_text": "This is a blog post about Best practices for styling in React Native. Here we explore how to effectively use react_native in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808047",
+        "likes": 279,
+        "dislikes": 46,
+        "reposts": 23,
+        "comments": [
+            "Great post, Mona!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user8",
+        "blogger_name": "Hank",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
+        "blog_text": "This is a blog post about JavaScript: The complete guide for modern web development. Here we explore how to effectively use javascript in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808063",
+        "likes": 18,
+        "dislikes": 13,
+        "reposts": 11,
+        "comments": [
+            "Great post, Hank!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user7",
+        "blogger_name": "Grace",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
+        "blog_text": "This is a blog post about How to use native modules in React Native. Here we explore how to effectively use react_native in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808080",
+        "likes": 372,
+        "dislikes": 46,
+        "reposts": 16,
+        "comments": [
+            "Great post, Grace!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user1",
+        "blogger_name": "Alice",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/1.jpg",
+        "blog_text": "This is a blog post about How to debug React Native apps efficiently. Here we explore how to effectively use react_native in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808091",
+        "likes": 460,
+        "dislikes": 35,
+        "reposts": 73,
+        "comments": [
+            "Great post, Alice!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user3",
+        "blogger_name": "Charlie",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/2.jpg",
+        "blog_text": "This is a blog post about How to create interactive UIs with JavaScript. Here we explore how to effectively use javascript in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808102",
+        "likes": 183,
+        "dislikes": 19,
+        "reposts": 8,
+        "comments": [
+            "Great post, Charlie!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user8",
+        "blogger_name": "Hank",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
+        "blog_text": "This is a blog post about Mastering PHP for backend development. Here we explore how to effectively use php in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808113",
+        "likes": 351,
+        "dislikes": 24,
+        "reposts": 88,
+        "comments": [
+            "Great post, Hank!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user14",
+        "blogger_name": "Nathan",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/7.jpg",
+        "blog_text": "This is a blog post about Mastering PHP for backend development. Here we explore how to effectively use php in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808128",
+        "likes": 384,
+        "dislikes": 42,
+        "reposts": 76,
+        "comments": [
+            "Great post, Nathan!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user2",
+        "blogger_name": "Bob",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/1.jpg",
+        "blog_text": "This is a blog post about How to get started with Python: A Beginner's Guide. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808213",
+        "likes": 465,
+        "dislikes": 9,
+        "reposts": 14,
+        "comments": [
+            "Great post, Bob!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user12",
+        "blogger_name": "Leo",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/6.jpg",
+        "blog_text": "This is a blog post about Best practices for React component design. Here we explore how to effectively use react in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808232",
+        "likes": 218,
+        "dislikes": 11,
+        "reposts": 50,
+        "comments": [
+            "Great post, Leo!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user7",
+        "blogger_name": "Grace",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/4.jpg",
+        "blog_text": "This is a blog post about How to get started with Python: A Beginner's Guide. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808241",
+        "likes": 485,
+        "dislikes": 9,
+        "reposts": 85,
+        "comments": [
+            "Great post, Grace!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user14",
+        "blogger_name": "Nathan",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/7.jpg",
+        "blog_text": "This is a blog post about JavaScript: The complete guide for modern web development. Here we explore how to effectively use javascript in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808252",
+        "likes": 231,
+        "dislikes": 35,
+        "reposts": 78,
+        "comments": [
+            "Great post, Nathan!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user4",
+        "blogger_name": "David",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/3.jpg",
+        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808262",
+        "likes": 110,
+        "dislikes": 18,
+        "reposts": 18,
+        "comments": [
+            "Great post, David!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user9",
+        "blogger_name": "Ivy",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/5.jpg",
+        "blog_text": "This is a blog post about How to work with MySQL in PHP. Here we explore how to effectively use php in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808284",
+        "likes": 268,
+        "dislikes": 30,
+        "reposts": 34,
+        "comments": [
+            "Great post, Ivy!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user6",
+        "blogger_name": "Fay",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/3.jpg",
+        "blog_text": "This is a blog post about React Native vs Flutter: A detailed comparison. Here we explore how to effectively use react_native in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808294",
+        "likes": 375,
+        "dislikes": 26,
+        "reposts": 2,
+        "comments": [
+            "Great post, Fay!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user8",
+        "blogger_name": "Hank",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/4.jpg",
+        "blog_text": "This is a blog post about Understanding Python's dynamic typing and its benefits. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808304",
+        "likes": 403,
+        "dislikes": 10,
+        "reposts": 99,
+        "comments": [
+            "Great post, Hank!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user4",
+        "blogger_name": "David",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/3.jpg",
+        "blog_text": "This is a blog post about Best practices for React component design. Here we explore how to effectively use react in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808315",
+        "likes": 272,
+        "dislikes": 17,
+        "reposts": 58,
+        "comments": [
+            "Great post, David!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user2",
+        "blogger_name": "Bob",
+        "blogger_profile": "https://randomuser.me/api/portraits/men/1.jpg",
+        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808326",
+        "likes": 53,
+        "dislikes": 35,
+        "reposts": 63,
+        "comments": [
+            "Great post, Bob!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user5",
+        "blogger_name": "Eve",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/2.jpg",
+        "blog_text": "This is a blog post about Getting started with React: A beginner's guide. Here we explore how to effectively use react in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808336",
+        "likes": 68,
+        "dislikes": 44,
+        "reposts": 93,
+        "comments": [
+            "Great post, Eve!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    },
+    {
+        "blogger_id": "user5",
+        "blogger_name": "Eve",
+        "blogger_profile": "https://randomuser.me/api/portraits/women/2.jpg",
+        "blog_text": "This is a blog post about Why Python is the best language for data science. Here we explore how to effectively use python in your projects.",
+        "blog_date": "2025-04-01T21:16:12.808346",
+        "likes": 260,
+        "dislikes": 1,
+        "reposts": 44,
+        "comments": [
+            "Great post, Eve!",
+            "Very insightful!",
+            "I learned a lot from this."
+        ]
+    }
+]
 }
